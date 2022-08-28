@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-28T05:08:05.471324Z",
+      "created": "2022-08-28T14:36:20.600024Z",
       "format": null,
-      "last_modified": "2022-08-28T05:08:04.723254Z",
+      "last_modified": "2022-08-28T14:36:18.472022Z",
       "mimetype": null,
       "name": "index.ipynb",
       "path": "posts/2022/jupyterlite/index.ipynb",
-      "size": 7377,
+      "size": 7888,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-28T05:08:05.471324Z",
+  "created": "2022-08-28T14:36:20.600024Z",
   "format": "json",
-  "last_modified": "2022-08-28T05:08:05.471324Z",
+  "last_modified": "2022-08-28T14:36:20.600024Z",
   "mimetype": null,
   "name": "jupyterlite",
   "path": "posts/2022/jupyterlite",
