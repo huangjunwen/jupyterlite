@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-28T00:46:03.920259Z",
+      "format": null,
+      "last_modified": "2022-08-28T00:46:02.608289Z",
+      "mimetype": null,
+      "name": "index.ipynb",
+      "path": "posts/2022/jupyterlite/index.ipynb",
+      "size": 7003,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-28T00:46:03.920259Z",
+  "format": "json",
+  "last_modified": "2022-08-28T00:46:03.920259Z",
+  "mimetype": null,
+  "name": "jupyterlite",
+  "path": "posts/2022/jupyterlite",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
