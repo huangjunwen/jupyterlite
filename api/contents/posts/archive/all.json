@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-09-10T23:21:08.819073Z",
+      "format": null,
+      "last_modified": "2022-09-10T23:21:08.819073Z",
+      "mimetype": null,
+      "name": "rsa",
+      "path": "posts/archive/rsa",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-09-10T23:21:08.819073Z",
+  "format": "json",
+  "last_modified": "2022-09-10T23:21:08.819073Z",
+  "mimetype": null,
+  "name": "archive",
+  "path": "posts/archive",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

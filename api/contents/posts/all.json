@@ -2,6 +2,18 @@
   "content": [
     {
       "content": null,
+      "created": "2022-09-10T23:21:08.819073Z",
+      "format": null,
+      "last_modified": "2022-09-10T23:21:08.819073Z",
+      "mimetype": null,
+      "name": "archive",
+      "path": "posts/archive",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2022-08-28T00:46:03.920259Z",
       "format": null,
       "last_modified": "2022-08-28T00:46:03.920259Z",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-28T00:46:03.920259Z",
+  "created": "2022-09-10T23:22:55.264178Z",
   "format": "json",
-  "last_modified": "2022-08-28T00:46:03.920259Z",
+  "last_modified": "2022-09-10T23:22:55.264178Z",
   "mimetype": null,
   "name": "posts",
   "path": "posts",
