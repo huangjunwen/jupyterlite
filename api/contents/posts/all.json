@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-09-11T03:38:11.138956Z",
+      "created": "2022-09-10T23:21:08.819073Z",
       "format": null,
-      "last_modified": "2022-09-11T03:38:11.138956Z",
+      "last_modified": "2022-09-10T23:21:08.819073Z",
       "mimetype": null,
       "name": "archive",
       "path": "posts/archive",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-11T03:38:11.138956Z",
+      "created": "2022-08-28T00:46:03.920259Z",
       "format": null,
-      "last_modified": "2022-09-11T03:38:11.138956Z",
+      "last_modified": "2022-08-28T00:46:03.920259Z",
       "mimetype": null,
       "name": "2022",
       "path": "posts/2022",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-09-11T03:38:11.138956Z",
+  "created": "2022-09-10T23:22:55.264178Z",
   "format": "json",
-  "last_modified": "2022-09-11T03:38:11.138956Z",
+  "last_modified": "2022-09-10T23:22:55.264178Z",
   "mimetype": null,
   "name": "posts",
   "path": "posts",
