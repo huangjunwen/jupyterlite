@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-28T23:00:42.652946Z",
+      "created": "2022-09-11T03:38:11.138956Z",
       "format": null,
-      "last_modified": "2022-08-28T23:00:41.956953Z",
+      "last_modified": "2022-09-11T03:38:10.058930Z",
       "mimetype": null,
       "name": "index.ipynb",
       "path": "posts/2022/jupyterlite/index.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-28T23:00:42.652946Z",
+  "created": "2022-09-11T03:38:11.138956Z",
   "format": "json",
-  "last_modified": "2022-08-28T23:00:42.652946Z",
+  "last_modified": "2022-09-11T03:38:11.138956Z",
   "mimetype": null,
   "name": "jupyterlite",
   "path": "posts/2022/jupyterlite",
